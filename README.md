@@ -1,6 +1,6 @@
 ### Hey there! I'm CodingFXJ.🌐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" margin-top="-50px" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"   />
 
 
 
@@ -14,7 +14,7 @@
 - ✍️ &nbsp; 我希望能多沉下心练习一些优秀的项目
 - ☕ &nbsp; 我相信，一切都会熬过去的.. 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
+
 <h3>🛠 技术栈</h3>
 
 <br>
@@ -60,7 +60,7 @@
   </tbody>
 </table>
 
-
+<img align="left" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
 
 <!--
 - 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
