@@ -1,27 +1,26 @@
-### Hi there 👋
+### Hi 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 关于我 </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; 我是一名目前正在学习 Angular 前端开发
+- 🤔 &nbsp; 没事喜欢逛逛博客收藏优秀的代码
+- 🎓 &nbsp; 喜欢探索新技术和沉迷魔改博客
+- 🌱 &nbsp; 爱好动漫和偶尔去健身房溜达溜达
+- ✍️ &nbsp; 我希望能多沉下心练习一些优秀的项目
+- ☕ &nbsp; 我相信，一切都会熬过去的.. 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 技术栈</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
+- 🌐 &nbsp;  ElementUI | SCSS | Less | Bootstrap 
+- 🛢 &nbsp; MySQL | Linux | Xampp | Eclipse 
+- 🔧 &nbsp; VsCode | IDE | HBuilderX  |WebStorm
+- 🖥 &nbsp;  Photoshop | Postman | Git
 
 <br>
 
