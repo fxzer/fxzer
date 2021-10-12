@@ -1,7 +1,7 @@
-### Hey there! I'm CodingFXJ.👋
+### Hey there! I'm CodingFXJ.�<h2>  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -15,12 +15,6 @@
 - ☕ &nbsp; 我相信，一切都会熬过去的.. 
 
 <h3>🛠 技术栈</h3>
-
-- 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
-- 🌐 &nbsp;  ElementUI | SCSS | Less | Bootstrap 
-- 🛢 &nbsp; MySQL | Linux | Xampp | Eclipse 
-- 🔧 &nbsp; VsCode | IDE | HBuilderX  |WebStorm
-- 🖥 &nbsp;  Photoshop | Postman | Git
 
 <br>
 <table>
@@ -61,28 +55,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-    </tr>
+  
   </tbody>
 </table>
 
 
+
+
+<!--
+- 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
+- 🌐 &nbsp;  ElementUI | SCSS | Less | Bootstrap 
+- 🛢 &nbsp; MySQL | Linux | Xampp | Eclipse 
+- 🔧 &nbsp; VsCode | IDE | HBuilderX  |WebStorm
+- 🖥 &nbsp;  Photoshop | Postman | Git
+-->
 
 
 <!--
