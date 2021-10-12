@@ -60,6 +60,8 @@
   </tbody>
 </table>
 
+
+<br>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
 
 <!--
