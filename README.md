@@ -18,7 +18,7 @@
 <h3>🛠 技术栈</h3>
 
 <br>
-<table align="center" >
+<table >
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
