@@ -62,7 +62,8 @@
 
 
 <br>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
 
 <!--
 - 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
