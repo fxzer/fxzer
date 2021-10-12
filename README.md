@@ -1,7 +1,7 @@
-### Hey there! I'm CodingFXJ.�<h2>  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+### Hey there! I'm CodingFXJ.🌐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 
 
@@ -58,8 +58,8 @@
   
   </tbody>
 </table>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 
 <!--
