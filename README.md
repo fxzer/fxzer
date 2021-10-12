@@ -18,7 +18,7 @@
 <h3>🛠 技术栈</h3>
 
 <br>
-<table>
+<table align="center" >
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -60,7 +60,7 @@
   </tbody>
 </table>
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
 
 <!--
 - 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
