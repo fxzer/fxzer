@@ -1,5 +1,5 @@
  
-### Hey there!💻I'm CodingFXJ.🌐 
+### Hey there!I'm CodingFXJ.🌐 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
  
@@ -57,7 +57,7 @@
   
   </tbody>
 </table>
-
+### 💻  GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
