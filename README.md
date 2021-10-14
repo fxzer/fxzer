@@ -1,7 +1,7 @@
  
 ### Hey there!💻I'm CodingFXJ.🌐 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
-<div style="float:left; >
+ 
 <h3 > 👨🏻‍💻 关于我 </h3>
 
 - 🔭 &nbsp; 我是一名目前正在学习 Angular 前端开发
@@ -10,7 +10,7 @@
 - 🌱 &nbsp; 爱好动漫和偶尔去健身房溜达溜达
 - ✍️ &nbsp; 我希望能多沉下心练习一些优秀的项目
 - ☕ &nbsp; 我相信，一切都会熬过去的.. 
-</div>
+ 
 
 <h3>🛠 技术栈</h3>
 
