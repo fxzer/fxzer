@@ -1,11 +1,12 @@
+<div style="float:right;width:50%">
 ### Hey there!💻I'm CodingFXJ.🌐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
 
-
-<div style="float:right">
+<div style="float:right;width:50%">
 <h3 > 👨🏻‍💻 关于我 </h3>
 
 - 🔭 &nbsp; 我是一名目前正在学习 Angular 前端开发
