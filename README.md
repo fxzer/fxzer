@@ -12,10 +12,10 @@
 - ✍️ &nbsp; 我希望能多沉下心练习一些优秀的项目
 - ☕ &nbsp; 我相信，一切都会熬过去的.. 
  
-
+<br>
 <h3>🛠 技术栈</h3>
 
-<br>
+
 <table >
   <tbody>
     <tr valign="top">
@@ -57,8 +57,9 @@
   
   </tbody>
 </table>
-<h3>💻  统计数据 </h3>
 <br>
+<h3>💻  统计数据 </h3>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
