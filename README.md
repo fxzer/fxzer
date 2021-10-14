@@ -57,8 +57,10 @@
   
   </tbody>
 </table>
-### 💻  GitHub stats
+<h3>💻  GitHub stats</h3>
 <br>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
