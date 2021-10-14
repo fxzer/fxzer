@@ -1,12 +1,12 @@
 ### Hey there!💻I'm CodingFXJ.🌐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
 
 
 
 
-<h3> 👨🏻‍💻 关于我 </h3>
+
+<h3 style="float:right"> 👨🏻‍💻 关于我 </h3>
 
 - 🔭 &nbsp; 我是一名目前正在学习 Angular 前端开发
 - 🤔 &nbsp; 没事喜欢逛逛博客收藏优秀的代码
@@ -60,7 +60,7 @@
   
   </tbody>
 </table>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
 
 <br>
 <!--
