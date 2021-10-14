@@ -1,5 +1,5 @@
  
-### Hey there!I'm CodingFXJ.🌐 
+### Hey 🤔! I'm CodingFXJ.🌐 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
  
