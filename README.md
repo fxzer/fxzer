@@ -1,5 +1,5 @@
 <div style="float:right;width:50%">
-### Hey there!💻I'm CodingFXJ.🌐
+  <h3>Hey there!💻I'm CodingFXJ.🌐</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
