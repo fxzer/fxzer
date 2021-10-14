@@ -1,6 +1,7 @@
 ### Hey there!💻I'm CodingFXJ.🌐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"   />
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"   style="width:300px;height:400px"/>
 
 
 
@@ -62,10 +63,10 @@
 
 
 <br>
-
+<!--
 <img align="left" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!--
+
 - 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
 - 🌐 &nbsp;  ElementUI | SCSS | Less | Bootstrap 
 - 🛢 &nbsp; MySQL | Linux | Xampp | Eclipse 
