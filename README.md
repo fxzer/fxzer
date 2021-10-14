@@ -1,5 +1,6 @@
  
 ### Hey there!💻I'm CodingFXJ.🌐 
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
  
 <h3 > 👨🏻‍💻 关于我 </h3>
@@ -59,40 +60,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFXJ)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<!--
-<img align="left" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  />
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-- 💻 &nbsp; HTML | Javascript | CSS | Vue | Java |   
-- 🌐 &nbsp;  ElementUI | SCSS | Less | Bootstrap 
-- 🛢 &nbsp; MySQL | Linux | Xampp | Eclipse 
-- 🔧 &nbsp; VsCode | IDE | HBuilderX  |WebStorm
-- 🖥 &nbsp;  Photoshop | Postman | Git
--->
-
-
-<!--
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingFXJ&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CodingFXJ's Github Stats">
-
--->
 
 
 
 
 
 
-<!--
-**CodingFXJ/CodingFXJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
