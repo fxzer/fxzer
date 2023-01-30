@@ -1,9 +1,9 @@
  
-### Hey 🤔! I'm CoderFXJ.🌐 
+### Hey 🤔! I'm fxzer.🌐 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
  
-<h3 > 👨🏻‍💻 关于我 </h3>
+  <h3 > 👨🏻‍💻 关于我 </h3>
 
 - 🔭 &nbsp; 一名会点Vue、React的前端开发
 - 🤔 &nbsp; 没事喜欢逛逛博客收藏优秀的代码
