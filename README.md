@@ -1,17 +1,8 @@
 ![welcome](./assets/welcome.svg)
        
-### Hey 🤔! I'm fxzer.🌐 
+# Hey 🤔! I'm fxzer.🌐 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
- 
-  <h2 > 👨🏻‍💻 关于我 </h2>
-
-- 🔭 &nbsp; 一名会点Vue、React的前端开发
-- 🤔 &nbsp; 没事喜欢逛开源社区学习优秀代码
-- 🎓 &nbsp; 喜欢探索新技术和折腾有意思的项目
-- 🌱 &nbsp; 爱好动漫和偶尔去健身房溜达溜达
-
- 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"    />
 <br>
 <h2>🛠 技术栈</h2>
 
