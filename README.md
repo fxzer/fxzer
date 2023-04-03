@@ -15,50 +15,34 @@
 <br>
 <h2>🛠 技术栈</h2>
 
-
 <table >
   <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px"  src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  
+   <tr valign="top" >
+        <td  align="center"  width="20%">
+          <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+          <img height="64px"  src="https://cdn.svgporn.com/logos/html-5.svg">
+        </td>
+        <td  align="center" width="20%">
+          <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        </td>
+        <td  align="center" width="20%">
+          <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        </td>
+        <td  align="center" width="20%">
+          <span>𝗩𝘂𝗲</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        </td>
+        <td  align="center" width="20%">
+          <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        </td>
+      </tr>
   </tbody>
 </table>
 <br>
 <h2>💻  统计数据 </h2>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![profile-green-animate](./profile-3d-contrib/profile-green-animate.svg)
 ![Snake animation](https://github.com/fxzer/fxzer/blob/output/github-contribution-grid-snake.svg)
