@@ -1,6 +1,3 @@
-![welcome](./assets/welcome.svg)
-       
-# Hey 🤔! I'm fxzer.🌐 
 <img  src="./assets/welcome.svg"  style="width:100%;"  />
 <img  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  style="width:100%;"  />
 
