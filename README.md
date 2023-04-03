@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
  
-  <h3 > 👨🏻‍💻 关于我 </h3>
+  <h2 > 👨🏻‍💻 关于我 </h2>
 
 - 🔭 &nbsp; 一名会点Vue、React的前端开发
 - 🤔 &nbsp; 没事喜欢逛开源社区学习优秀代码
@@ -12,7 +12,7 @@
 
  
 <br>
-<h3>🛠 技术栈</h3>
+<h2>🛠 技术栈</h2>
 
 
 <table >
@@ -57,10 +57,7 @@
   </tbody>
 </table>
 <br>
-<h3>💻  统计数据 </h3>
+<h2>💻  统计数据 </h2>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
 
