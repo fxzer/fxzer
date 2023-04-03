@@ -60,5 +60,4 @@
 <h2>💻  统计数据 </h2>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-![](https://raw.githubusercontent.com/fxzer/fxzer/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fxzer/fxzer/blob/output/github-contribution-grid-snake.svg)
