@@ -6,4 +6,4 @@
 
 ![profile-green-animate](./profile-3d-contrib/profile-green-animate.svg)
 ![Snake animation](https://github.com/fxzer/fxzer/blob/output/github-contribution-grid-snake.svg)
-<img  src="[./assets/welcome.svg](https://github.com/fxzer/fxzer/blob/output/github-contribution-grid-snake.svg"  style="width:100%;"  />
+<img  src="https://github.com/fxzer/fxzer/blob/output/github-contribution-grid-snake.svg"  style="width:100%;"  />
