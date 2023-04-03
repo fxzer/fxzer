@@ -2,9 +2,8 @@
        
 # Hey 🤔! I'm fxzer.🌐 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"    />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  style="width:100%;"  />
 <br>
-<h2>🛠 技术栈</h2>
 
 <table >
   <tbody>
