@@ -1,7 +1,14 @@
 <img  src="./assets/welcome.svg"  style="width:100%;"  />
+<h2>我使用的技术栈 Stacks I work with</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,vitest,react,pinia,nuxtjs,nextjs,ts,electron,nodejs,docker,nginx,mongodb,prisma,js,tailwind,sass,css,html,svg,vim,md" />
+  </a>
+</p>
+<h2>我使用的工具 Tools I use</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,apple,linux,ubuntu,bash,git,github,pnpm,figma,gitlab,vercel,discord,obsidian,docker,vim" />
   </a>
 </p>
 <!-- <img  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  style="width:100%"  /> -->
