@@ -2,7 +2,7 @@
 <h2>我使用的技术栈 Stacks I work with</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,vitest,react,pinia,nuxtjs,nextjs,ts,electron,nodejs,docker,nginx,mongodb,prisma,js,tailwind,sass,css,html,svg,vim,md" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,vite,ts,pinia,vitest,react,nextjs,electron,nodejs,docker,nginx,mongodb,prisma,js,tailwind,windicss,sass,css,html,svg,md" />
   </a>
 </p>
 <h2>我使用的工具 Tools I use</h2>
