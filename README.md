@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github-pulse-topaz.vercel.app">
-    <img src="https://github-pulse-topaz.vercel.app/u/fxzer?theme=cyber&size=wide" alt="GitHub Pulse" />
+    <img src="https://github-pulse-topaz.vercel.app/u/fxzer?theme=random&size=wide" alt="GitHub Pulse" />
   </a>
 </div>
 
