@@ -1,6 +1,13 @@
 <img  src="./profile-3d-contrib/profile-night-rainbow.svg"  style="width:100%;margin-top:-50px"  />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- <img  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  style="width:100%"  /> -->
+
+<div align="center">
+  <a href="https://github-pulse-topaz.vercel.app">
+    <img src="https://github-pulse-topaz.vercel.app/u/fxzer?theme=cyber&size=wide" alt="GitHub Pulse" />
+  </a>
+</div>
+
 <h3>我使用的技术栈 Stacks I work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
